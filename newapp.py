@@ -6,3 +6,4 @@ if works == 'Yes':
 elif works == 'No:
 	print('Well, I hope I prove you wrong')
 
+thonny = input('Well...it worked.  Now, can I update the program in Thonny rather than nano?')
